@@ -11,7 +11,7 @@ This repository indexes all the projects I completed as part of the **Piscine**,
 - Under construction...
 ### Common Core Projects
 
-<div style="columns: 2; -webkit-columns: 2; -moz-columns: 2;">
+<div style="columns: 3; -webkit-columns: 2; -moz-columns: 2;">
 
 - [Libft](#)
 - [ft_printf](#)
