@@ -10,6 +10,13 @@ This repository indexes all the projects I completed as part of the **Piscine**,
 ### Piscine Reloaded Projects
 - Under construction...
 ### Common Core Projects
+| Milestone 0           | Milestone 1          | Milestone 2          |
+|-----------------------|----------------------|----------------------|
+| [Libft](#)            | [Shell 00](#)        | [Reloaded](#)        |
+| [ft_printf](#)        | [C00](#)             | [Exam Rank 02](#)    |
+| [Get Next Line](#)    | [C01](#)             |                      |
+| [Push Swap](#)        | [C02](#)             |                      |
+
 #### - Milestone 0:
 - [Libft](https://github.com/yourusername/42-libft)
 #### Milestone 1:
