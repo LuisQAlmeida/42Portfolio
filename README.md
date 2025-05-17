@@ -18,7 +18,7 @@ This repository indexes all the projects I completed as part of the **Common Cor
 </details>
 
 ---
-## 🛠️ Technologies Used
+## Technologies Used
 - C (C89/C90 standard)
 - Git & GitHub
 - Makefiles
