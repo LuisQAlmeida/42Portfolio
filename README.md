@@ -10,6 +10,20 @@ This repository indexes all the projects I completed as part of the **Piscine**,
 ### Piscine Reloaded Projects
 - Under construction...
 ### Common Core Projects
+
+<div style="columns: 2; -webkit-columns: 2; -moz-columns: 2;">
+
+- [Libft](#)
+- [ft_printf](#)
+- [Get Next Line](#)
+- [Push Swap](#)
+- [Shell 00](#)
+- [C00](#)
+- [Reloaded](#)
+- [Exam Rank 02](#)
+
+</div>
+
 | Milestone 0           | Milestone 1          | Milestone 2          |
 |-----------------------|----------------------|----------------------|
 | [Libft](#)            | [Shell 00](#)        | [Reloaded](#)        |
