@@ -11,15 +11,17 @@ This repository indexes all the projects I completed as part of the **Piscine**,
 - Under construction...
 ### Common Core Projects
 <details>
-<summary><strong> Milestone 0 – Foundations</strong></summary>
+<summary><strong> Milestone 0 – Building a library in C</strong></summary>
   
 - [Libft](https://github.com/yourusername/42-libft) - Custom implementation of C library functions.
+</details>
 
+<details>
 <summary><strong> Milestone 1 – Foundations</strong></summary>
+  
 - [ft_printf](#) - Reimplementation of the C `printf` function.
 - [get_next_line](#) - Line-by-line file reading.
 - [Born2beroot](#) - Introduction to system administration.
-
 </details>
 
 ---
