@@ -9,7 +9,6 @@ This repository indexes all the projects I completed as part of the **Piscine**,
 ---
 
 ## Index
-
 ### Piscine Projects
 - [Shell 00](https://github.com/yourusername/42-shell00)
 - [C00 - C09](https://github.com/yourusername/42-c00)
@@ -26,21 +25,6 @@ This repository indexes all the projects I completed as part of the **Piscine**,
 - [ft_printf](https://github.com/yourusername/42-ft_printf)
 - [Get Next Line](https://github.com/yourusername/42-gnl)
 - [Born2beroot]()
-
-#### Milestone 2:
-...Under construction...
-
-#### Milestone 3:
-...Under construction...
-
-#### Milestone 4:
-...Under construction...
-
-#### Milestone 5:
-...Under construction...
-
-#### Milestone 6:
-...Under construction...
 
 ---
 
