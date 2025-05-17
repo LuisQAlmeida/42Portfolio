@@ -1,25 +1,20 @@
 # 42Portfolio – Luís Quental Almeida
 > My journey through the 42 curriculum at 42 Porto.  
-This repository indexes all the projects I completed as part of the **Piscine**, **Piscine Reloaded**, and **Common Core**.
+This repository indexes all the projects I completed as part of the **Common Core**.
 ---
 ## Index
-### Piscine Projects
-- Under construction...
-### Piscine Reloaded Projects
-- Under construction...
 ### Common Core Projects
 <details>
 <summary><strong> Milestone 0 – Building a library in C</strong></summary>
   
-- [Libft](https://github.com/yourusername/42-libft) - Custom implementation of C library functions.
+- [Libft](https://github.com/LuisQAlmeida/42Libft) - Custom implementation of C library functions.
 </details>
 
 <details>
 <summary><strong> Milestone 1 – Foundations</strong></summary>
   
-- [ft_printf](#) - Reimplementation of the C `printf` function.
-- [get_next_line](#) - Line-by-line file reading.
-- [Born2beroot](#) - Introduction to system administration.
+- [ft_printf](https://github.com/LuisQAlmeida/42ft_printf) - Reimplementation of the C `printf` function.
+- [get_next_line](https://github.com/LuisQAlmeida/42get_next_line) - Line-by-line file reading.
 </details>
 
 ---
