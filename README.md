@@ -6,13 +6,11 @@ This repository indexes all the projects I completed as part of the **Piscine**,
 ---
 ## Index
 ### Piscine Projects
-- [Shell 00](https://github.com/yourusername/42-shell00)
-- [C00 - C09](https://github.com/yourusername/42-c00)
-- [Exam Rank 02](https://github.com/yourusername/42-exam-rank-02)
+- Under construction...
 ### Piscine Reloaded Projects
-- [Reloaded Tasks Repo](https://github.com/yourusername/42-piscine-reloaded)
+- Under construction...
 ### Common Core Projects
-#### Milestone 0:
+#### - Milestone 0:
 - [Libft](https://github.com/yourusername/42-libft)
 #### Milestone 1:
 - [ft_printf](https://github.com/yourusername/42-ft_printf)
