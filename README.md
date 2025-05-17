@@ -40,5 +40,5 @@ This portfolio is part of my effort to:
 ## Contact
 Feel free to connect or reach out:
 - GitHub: [github.com/LuisQAlmeida](https://github.com/LuisQAlmeida)
-- LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+- LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/luís-quental-almeida)
 ---
