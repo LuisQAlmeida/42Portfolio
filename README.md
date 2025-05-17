@@ -1,4 +1,4 @@
-# 42 Portfolio – Luís Quental Almeida
+# 42Portfolio – Luís Quental Almeida
 > My journey through the 42 curriculum at 42 Porto.  
 This repository indexes all the projects I completed as part of the **Piscine**, **Piscine Reloaded**, and **Common Core**.
 ---
