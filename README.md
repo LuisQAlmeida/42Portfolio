@@ -10,19 +10,17 @@ This repository indexes all the projects I completed as part of the **Piscine**,
 ### Piscine Reloaded Projects
 - Under construction...
 ### Common Core Projects
+<details>
+<summary><strong>🟦 Milestone 0 – Foundations</strong></summary>
 
-<div style="columns: 3; -webkit-columns: 2; -moz-columns: 2;">
+| Project         | Description                          |
+|----------------|--------------------------------------|
+| [Libft](#)      | Custom implementation of C library functions. |
+| [ft_printf](#)  | Reimplementation of the C `printf` function. |
+| [get_next_line](#) | Line-by-line file reading.           |
+| [Born2beroot](#) | Introduction to system administration. |
 
-- [Libft](#)
-- [ft_printf](#)
-- [Get Next Line](#)
-- [Push Swap](#)
-- [Shell 00](#)
-- [C00](#)
-- [Reloaded](#)
-- [Exam Rank 02](#)
-
-</div>
+</details>
 
 | Milestone 0           | Milestone 1          | Milestone 2          |
 |-----------------------|----------------------|----------------------|
