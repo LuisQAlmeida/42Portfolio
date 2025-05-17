@@ -11,30 +11,17 @@ This repository indexes all the projects I completed as part of the **Piscine**,
 - Under construction...
 ### Common Core Projects
 <details>
-<summary><strong>🟦 Milestone 0 – Foundations</strong></summary>
+<summary><strong> Milestone 0 – Foundations</strong></summary>
+  
+- [Libft](https://github.com/yourusername/42-libft) - Custom implementation of C library functions.
 
-| Project         | Description                          |
-|----------------|--------------------------------------|
-| [Libft](#)      | Custom implementation of C library functions. |
-| [ft_printf](#)  | Reimplementation of the C `printf` function. |
-| [get_next_line](#) | Line-by-line file reading.           |
-| [Born2beroot](#) | Introduction to system administration. |
+<summary><strong> Milestone 1 – Foundations</strong></summary>
+- [ft_printf](#) - Reimplementation of the C `printf` function.
+- [get_next_line](#) - Line-by-line file reading.
+- [Born2beroot](#) - Introduction to system administration.
 
 </details>
 
-| Milestone 0           | Milestone 1          | Milestone 2          |
-|-----------------------|----------------------|----------------------|
-| [Libft](#)            | [Shell 00](#)        | [Reloaded](#)        |
-| [ft_printf](#)        | [C00](#)             | [Exam Rank 02](#)    |
-| [Get Next Line](#)    | [C01](#)             |                      |
-| [Push Swap](#)        | [C02](#)             |                      |
-
-#### - Milestone 0:
-- [Libft](https://github.com/yourusername/42-libft)
-#### Milestone 1:
-- [ft_printf](https://github.com/yourusername/42-ft_printf)
-- [Get Next Line](https://github.com/yourusername/42-gnl)
-- [Born2beroot]()
 ---
 ## 🛠️ Technologies Used
 - C (C89/C90 standard)
