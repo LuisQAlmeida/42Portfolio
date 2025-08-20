@@ -15,6 +15,7 @@ This repository indexes all the projects I completed as part of the **Common Cor
   
 - [ft_printf](https://github.com/LuisQAlmeida/42ft_printf) - Reimplementation of the C `printf` function.
 - [get_next_line](https://github.com/LuisQAlmeida/42get_next_line) - Line-by-line file reading.
+- [Born2beroot](https://github.com/LuisQAlmeida/42Born2beroot) - Intro to virtualization.
 </details>
 
 ---
